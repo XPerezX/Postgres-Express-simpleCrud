@@ -6,4 +6,8 @@ steps to run
 
 1- npm install
 
-2- npx nodemon app.js
+2- config your .env file
+
+3- npx nodemon app.js
+
+
